@@ -1,0 +1,1 @@
+Python puzzles from https://www.w3resource.com/
